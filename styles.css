@@ -1,0 +1,292 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs29\fsmilli14667 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 /* General Styling */
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 body \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0font-family: Arial, sans-serif;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0margin: 0;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0padding: 0;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0background-color: #f4f4f4;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0color: #333;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 .container \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0width: 80%;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0margin: 0 auto;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0padding: 20px 0;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 /* Header */
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 header \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0background: #1a1a2e;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0color: white;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0padding: 15px 0;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0text-align: center;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 nav ul \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0list-style: none;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0padding: 0;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 nav ul li \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0display: inline;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0margin: 0 15px;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 nav ul li a \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0color: white;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0text-decoration: none;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0font-weight: bold;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 /* Hero Section */
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 .hero \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0background: url('https://source.unsplash.com/1600x900/?finance,technology') no-repeat center center/cover;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0color: white;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0text-align: center;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0padding: 100px 20px;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 .hero h2 \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0font-size: 2.5em;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 .hero p \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0font-size: 1.2em;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0margin-top: 10px;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 .btn \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0display: inline-block;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0margin-top: 15px;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0padding: 12px 25px;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0background: #007BFF;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0color: white;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0text-decoration: none;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0font-size: 1.1em;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0border-radius: 5px;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0transition: all 0.3s ease-in-out;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 .btn:hover \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0background: #0056b3;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0transform: scale(1.05);
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 /* Sections */
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 section \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0padding: 60px 20px;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0text-align: center;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0background: white;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0margin: 20px 0;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0border-radius: 10px;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0opacity: 0;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0transform: translateY(30px);
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 /* Contact Section */
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 #contact \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0background: #1a1a2e;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0color: white;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 #contact .btn \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0background: #28a745;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 #contact .btn:hover \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0background: #218838;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+
+\f0\fs29\fsmilli14667 \strokec2 /* Smooth Scrolling */
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 html \{
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \'a0\'a0\'a0\'a0scroll-behavior: smooth;
+\f1\fs24 \strokec2 \
+
+\f0\fs29\fsmilli14667 \strokec2 \}
+\f1\fs24 \strokec2 \
+\
+}
